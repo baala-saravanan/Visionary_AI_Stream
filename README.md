@@ -1,4 +1,4 @@
-# HearSight-Visionary_AI_Stream 
+# Visionary_AI_Stream 
 This Python code captures images using a webcam, analyzes them with a generative AI model, and provides spoken descriptions. The key steps are:
 
 Initialization: Sets up logging, Google AI client, GPIO for an exit button, and directories for storing frames.
