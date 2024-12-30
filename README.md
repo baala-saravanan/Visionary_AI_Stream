@@ -1,5 +1,5 @@
 # HearSight-Visionary_AI_Stream 
-This Python code is for a system called HearSight, which captures images using a webcam, analyzes them with a generative AI model, and provides spoken descriptions. The key steps are:
+This Python code captures images using a webcam, analyzes them with a generative AI model, and provides spoken descriptions. The key steps are:
 
 Initialization: Sets up logging, Google AI client, GPIO for an exit button, and directories for storing frames.
 Language Handling: Reads the preferred language from a file and sets up language mappings for text-to-speech (gTTS) and translation (googletrans).
